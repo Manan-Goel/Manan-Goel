@@ -3,7 +3,7 @@
 
 <!-- A PREMIUM CUSTOM BANNER (Generate with Canva or DALL-E) -->
 <!-- Recommended Vibe: Abstract digital network connections, neon-cyan/white on near-black background -->
-<img src="https://via.placeholder.com/1200x400/0d1117/FFFFFF?text=%3C%20MANAN%20GOEL%20%2F%3E%0AArchitecting%20Intelligence%20Systems" alt="Manan Goel Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=300&section=header&text=MANAN%20GOEL&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Architecting%20Intelligence%20Systems&descAlignY=60&descSize=20" width="100%" />
 
 <br/>
 
