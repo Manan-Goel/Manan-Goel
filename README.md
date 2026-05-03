@@ -1,16 +1,16 @@
 <!-- CENTER EVERYTHING FOR IMPACT -->
 <div align="center">
 
-<!-- A PREMIUM CUSTOM BANNER (Generate with Canva or DALL-E) -->
-<!-- Recommended Vibe: Abstract digital network connections, neon-cyan/white on near-black background -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=300&section=header&text=MANAN%20GOEL&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Architecting%20Intelligence%20Systems&descAlignY=60&descSize=20" width="100%" />
+<!-- A PREMIUM CUSTOM BANNER (Hosted Locally) -->
+<!-- Save the image I generated as assets/manan-banner.png -->
+<img src="assets/manan-banner.png" alt="Manan Goel - Systems Intelligence Engineer" width="100%" />
 
 <br/>
 
-<!-- DYNAMIC TYPING TITLE -->
+<!-- DYNAMIC TYPING TITLE (Known to work reliably) -->
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=I+Build+Autonomous+Systems;AI+Engineer+%7C%7C+SDE;LLM-powered+Intelligence;Graph+RAG+%26+RL+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=I+Build+Autonomous+Systems;AI+Engineer+%7C%7C+SDE;Graph+RAG+%26+RL+Expert;Focusing+on+Reliable+MLOps" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -19,7 +19,7 @@
   <strong>Systems Engineer</strong> focusing on the intersection of <strong>Graph Theory, Reinforcement Learning, and Agentic AI</strong>. Bridging the gap between exciting research models and production-ready, scalable infrastructure.
 </p>
 
-<!-- VISUAL STATUS BADGES (Replace with your actual portfolio/resume link) -->
+<!-- VISUAL STATUS BADGES -->
 <p>
   <a href="https://huggingface.co/J1n-x"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="mailto:[YOUR_EMAIL_HERE]"><img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
@@ -36,7 +36,69 @@
 
 <hr />
 
-<!-- FEATURED PROJECTS SHOWCASE (Grid Layout using Tables for "Sexy" look) -->
+<!-- SKILLS GRID (The "Sexy" upgraded section) -->
+## 🛠️ The Technology Ecosystem
+
+<p>I build robust intelligence systems by combining core software engineering principles with advanced machine learning architectures.</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🚀 SDE Fundamentals</h3>
+      <!-- Data Structures, Algorithms, System Design -->
+      <img src="https://img.shields.io/badge/DSA-00E6FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" /><br/>
+      <img src="https://img.shields.io/badge/OOP-ffffff?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="OOP" /><br/>
+      <img src="https://img.shields.io/badge/System_Design-success?style=for-the-badge&logo=googleartsproject&logoColor=white" alt="SystemDesign" /><br/>
+      <img src="https://img.shields.io/badge/Asynchronous_Programming-orange?style=for-the-badge&logo=aiohttp&logoColor=white" alt="Async" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Programming</h3>
+      <!-- C++, Java, Python, JavaScript/Node -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>📊 Data & DBs</h3>
+      <!-- Neo4j, Qdrant, Pandas -->
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" /><br/>
+      <img src="https://img.shields.io/badge/Qdrant-ED1F35?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" /><br/>
+      <img src="https://img.shields.io/badge/FAISS-7E57C2?style=for-the-badge&logo=vector&logoColor=white" alt="FAISS" /><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🧠 AI / ML Core</h3>
+      <!-- PyTorch, Gymnasium, HF -->
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /><br/>
+      <img src="https://img.shields.io/badge/GraphRAG-00E6FF?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="GraphRAG" /><br/>
+      <img src="https://img.shields.io/badge/Reinforcement_Learning-FF5733?style=for-the-badge" alt="RL" /><br/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF" />
+    </td>
+    <td valign="top">
+      <h3>⛓️ Specialized AI</h3>
+      <!-- Agents, NLP, CV -->
+      <img src="https://img.shields.io/badge/Agentic_AI-warning?style=for-the-badge" alt="Agents" /><br/>
+      <img src="https://img.shields.io/badge/Llama_Mistral-success?style=for-the-badge" alt="LLMs" /><br/>
+      <img src="https://img.shields.io/badge/Computer_Vision-7E57C2?style=for-the-badge&logo=opencv&logoColor=white" alt="CV" /><br/>
+      <img src="https://img.shields.io/badge/MediaPipe-00E676?style=for-the-badge" alt="MediaPipe" />
+    </td>
+    <td valign="top">
+      <h3>🛡️ Engineering/Ops</h3>
+      <!-- Docker, FastAPI, Actions -->
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" /><br/>
+      <img src="https://img.shields.io/badge/Unit_Testing-00D21E?style=for-the-badge&logo=pytest&logoColor=white" alt="Testing" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- FEATURED PROJECTS SHOWCASE -->
 ## 🚀 Featured Intelligence Systems
 
 <table width="100%">
@@ -46,23 +108,18 @@
     <td width="50%" valign="top">
       <h3>🪞 Darpan — Global Intelligence Engine</h3>
       <p>Turns fragmented geopolitical & economic data into a queryable knowledge graph. Implements hybrid multi-hop reasoning & signal detection.</p>
-      <!-- Tech Tags -->
       <div>
         <img src="https://img.shields.io/badge/GraphRAG-00E6FF?style=flat-square" alt="RAG" />
         <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
         <img src="https://img.shields.io/badge/Ollama-ED1F35?style=flat-square" alt="Ollama" />
-        <img src="https://img.shields.io/badge/Latency_Optimized-success?style=flat-square" alt="Stats" />
       </div>
       <br/>
-      <!-- [OPTIONAL: Add a screenshot/GIF link here if you have one] -->
-      <!-- <img src="[Your GIF link here]" width="100%" alt="Darpan Demo" /> -->
       <a href="https://github.com/Manan-Goel/darpan"><b>View Repository →</b></a>
     </td>
     <!-- GREEN DATA CENTER RL -->
     <td width="50%" valign="top">
       <h3>🧠 Green Data Center RL</h3>
-      <p>Autonomous agent optimizing energy consumption, thermal comfort, and carbon footprint. Uses a custom Gymnasium environment and multi-objective reward function.</p>
-      <!-- Tech Tags -->
+      <p>Autonomous agent optimizing energy consumption, thermal comfort, and carbon footprint. Uses a custom Gymnasium environment.</p>
       <div>
         <img src="https://img.shields.io/badge/Reinforcement_Learning-FF5733?style=flat-square" alt="RL" />
         <img src="https://img.shields.io/badge/Gymnasium-4CAF50?style=flat-square" alt="Gym" />
@@ -72,59 +129,7 @@
       <a href="https://github.com/Manan-Goel/green-dc-rl"><b>View Repository →</b></a>
     </td>
   </tr>
-  <!-- ROW 2 -->
-  <tr>
-    <!-- SHRAVANA -->
-    <td width="50%" valign="top">
-      <h3>🧬 Shravana AI Healthcare</h3>
-      <p>Multi-task learning platform for real-time posture correction & risk prediction. Built with Computer Vision and robust monitoring/alerting systems.</p>
-      <!-- Tech Tags -->
-      <div>
-        <img src="https://img.shields.io/badge/Computer_Vision-7E57C2?style=flat-square&logo=opencv&logoColor=white" alt="CV" />
-        <img src="https://img.shields.io/badge/MediaPipe-00E676?style=flat-square" alt="MediaPipe" />
-        <img src="https://img.shields.io/badge/Production_Ready-success?style=flat-square" alt="Prod" />
-      </div>
-      <br/>
-      <a href="https://github.com/Manan-Goel/shravana"><b>View Repository →</b></a>
-    </td>
-    <!-- EMPTY OR FUTURE PROJECT -->
-    <td width="50%" valign="top">
-      <h3>🌱 EcoFinds AI Sustainability</h3>
-      <p>Finds eco-friendly alternatives using NLP & Computer Vision. Currently refining the deployment pipeline for scale.</p>
-      <!-- Tech Tags -->
-      <div>
-        <img src="https://img.shields.io/badge/NLP-3F51B5?style=flat-square" alt="NLP" />
-        <img src="https://img.shields.io/badge/MLOps_Pending-warning?style=flat-square" alt="MLOps" />
-      </div>
-      <br/>
-      <a href="https://github.com/Manan-Goel/ecofinds"><b>View Repository →</b></a>
-    </td>
-  </tr>
 </table>
-
-<br/>
-
-<!-- TECH STACK CATEGORIZED -->
-## 🛠️ The Tech Ecosystem
-
-<p align="left">
-  <!-- Use Shields.io for colored badges, matching the banner theme -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/Qdrant-ED1F35?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-</p>
-
-| Category | Specialization Areas |
-| :--- | :--- |
-| **Intelligence** | GraphRAG, RL (PPO/DQN), Multi-Task Learning, Agentic Planning, RAG Evaluation |
-| **Data & Systems** | Neo4j, Vector DBs (Qdrant/FAISS), Data Pipelines, API Design (FastAPI), Pydantic |
-| **Engineering** | Docker, CI/CD, Asynchronous Programming, Unit Testing (Pytest), Self-Hosting |
 
 <br/>
 
@@ -151,7 +156,7 @@
 <!-- CURRENT FOCUS & CONNECT -->
 <hr />
 <div align="center">
-  <h3>🔭 Current Exploration: Rust for High-Performance AI 🦀 || Scaling LLM Agents</h3>
+  <h3>🔭 Current Exploration: Rust for High-Performance AI 🦀 || DSA Polish</h3>
   
   <p>I am actively seeking SDE and AI Engineering Internship/Roles (Class of 2026).</p>
   
