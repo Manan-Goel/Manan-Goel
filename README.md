@@ -1,125 +1,162 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:1f1c2c&height=250&section=header&text=MANAN%20GOEL&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+<!-- CENTER EVERYTHING FOR IMPACT -->
+<div align="center">
+
+<!-- A PREMIUM CUSTOM BANNER (Generate with Canva or DALL-E) -->
+<!-- Recommended Vibe: Abstract digital network connections, neon-cyan/white on near-black background -->
+<img src="https://via.placeholder.com/1200x400/0d1117/FFFFFF?text=%3C%20MANAN%20GOEL%20%2F%3E%0AArchitecting%20Intelligence%20Systems" alt="Manan Goel Banner" width="100%" />
+
+<br/>
+
+<!-- DYNAMIC TYPING TITLE -->
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=I+Build+Autonomous+Systems;AI+Engineer+%7C%7C+SDE;LLM-powered+Intelligence;Graph+RAG+%26+RL+Expert" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- KEY VALUE PROPOSITION & CAREER STATUS -->
+<p>
+  <strong>Systems Engineer</strong> focusing on the intersection of <strong>Graph Theory, Reinforcement Learning, and Agentic AI</strong>. Bridging the gap between exciting research models and production-ready, scalable infrastructure.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+LLMs+%7C+Graph+RAG;Building+Systems+that+Think+and+Reason;From+Raw+Data+→+Intelligence+→+Decisions;Not+just+models+—+I+build+systems"/>
+<!-- VISUAL STATUS BADGES (Replace with your actual portfolio/resume link) -->
+<p>
+  <a href="https://huggingface.co/J1n-x"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="mailto:[YOUR_EMAIL_HERE]"><img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="[YOUR_LINKEDIN_HERE]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+<br/>
+<hr />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manan-Goel&theme=tokyonight&no-frame=true&row=1&column=6"/>
+## 🧬 Engineering Philosophy
+
+> "AI is a systems problem, not just a modeling problem. True intelligence requires memory (Knowledge Graphs), reasoning (Agentic Planning), and action (Reinforcement Learning) encapsulated within robust, low-latency infrastructure."
+
+<hr />
+
+<!-- FEATURED PROJECTS SHOWCASE (Grid Layout using Tables for "Sexy" look) -->
+## 🚀 Featured Intelligence Systems
+
+<table width="100%">
+  <!-- ROW 1 -->
+  <tr>
+    <!-- DARPAN -->
+    <td width="50%" valign="top">
+      <h3>🪞 Darpan — Global Intelligence Engine</h3>
+      <p>Turns fragmented geopolitical & economic data into a queryable knowledge graph. Implements hybrid multi-hop reasoning & signal detection.</p>
+      <!-- Tech Tags -->
+      <div>
+        <img src="https://img.shields.io/badge/GraphRAG-00E6FF?style=flat-square" alt="RAG" />
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+        <img src="https://img.shields.io/badge/Ollama-ED1F35?style=flat-square" alt="Ollama" />
+        <img src="https://img.shields.io/badge/Latency_Optimized-success?style=flat-square" alt="Stats" />
+      </div>
+      <br/>
+      <!-- [OPTIONAL: Add a screenshot/GIF link here if you have one] -->
+      <!-- <img src="[Your GIF link here]" width="100%" alt="Darpan Demo" /> -->
+      <a href="https://github.com/Manan-Goel/darpan"><b>View Repository →</b></a>
+    </td>
+    <!-- GREEN DATA CENTER RL -->
+    <td width="50%" valign="top">
+      <h3>🧠 Green Data Center RL</h3>
+      <p>Autonomous agent optimizing energy consumption, thermal comfort, and carbon footprint. Uses a custom Gymnasium environment and multi-objective reward function.</p>
+      <!-- Tech Tags -->
+      <div>
+        <img src="https://img.shields.io/badge/Reinforcement_Learning-FF5733?style=flat-square" alt="RL" />
+        <img src="https://img.shields.io/badge/Gymnasium-4CAF50?style=flat-square" alt="Gym" />
+        <img src="https://img.shields.io/badge/Deployed_on_HF-FFD21E?style=flat-square" alt="HF" />
+      </div>
+      <br/>
+      <a href="https://github.com/Manan-Goel/green-dc-rl"><b>View Repository →</b></a>
+    </td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+    <!-- SHRAVANA -->
+    <td width="50%" valign="top">
+      <h3>🧬 Shravana AI Healthcare</h3>
+      <p>Multi-task learning platform for real-time posture correction & risk prediction. Built with Computer Vision and robust monitoring/alerting systems.</p>
+      <!-- Tech Tags -->
+      <div>
+        <img src="https://img.shields.io/badge/Computer_Vision-7E57C2?style=flat-square&logo=opencv&logoColor=white" alt="CV" />
+        <img src="https://img.shields.io/badge/MediaPipe-00E676?style=flat-square" alt="MediaPipe" />
+        <img src="https://img.shields.io/badge/Production_Ready-success?style=flat-square" alt="Prod" />
+      </div>
+      <br/>
+      <a href="https://github.com/Manan-Goel/shravana"><b>View Repository →</b></a>
+    </td>
+    <!-- EMPTY OR FUTURE PROJECT -->
+    <td width="50%" valign="top">
+      <h3>🌱 EcoFinds AI Sustainability</h3>
+      <p>Finds eco-friendly alternatives using NLP & Computer Vision. Currently refining the deployment pipeline for scale.</p>
+      <!-- Tech Tags -->
+      <div>
+        <img src="https://img.shields.io/badge/NLP-3F51B5?style=flat-square" alt="NLP" />
+        <img src="https://img.shields.io/badge/MLOps_Pending-warning?style=flat-square" alt="MLOps" />
+      </div>
+      <br/>
+      <a href="https://github.com/Manan-Goel/ecofinds"><b>View Repository →</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- TECH STACK CATEGORIZED -->
+## 🛠️ The Tech Ecosystem
+
+<p align="left">
+  <!-- Use Shields.io for colored badges, matching the banner theme -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Qdrant-ED1F35?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
----
+| Category | Specialization Areas |
+| :--- | :--- |
+| **Intelligence** | GraphRAG, RL (PPO/DQN), Multi-Task Learning, Agentic Planning, RAG Evaluation |
+| **Data & Systems** | Neo4j, Vector DBs (Qdrant/FAISS), Data Pipelines, API Design (FastAPI), Pydantic |
+| **Engineering** | Docker, CI/CD, Asynchronous Programming, Unit Testing (Pytest), Self-Hosting |
 
-## 🧠 SYSTEMS I BUILD
+<br/>
 
-```diff
-+ LLM-powered Intelligence Systems
-+ Knowledge Graph + Graph RAG Architectures
-+ End-to-End AI Pipelines (Data → Model → API → UI)
-+ Multimodal + Reinforcement Learning Systems
-```
+<!-- GITHUB METRICS & CONTRIBUTIONS -->
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Manan-Goel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00E6FF&title_color=ffffff" alt="Github Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manan-Goel&theme=dark&hide_border=true&background=0d1117&fire=00E6FF&ring=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 
-## 🚀 FEATURED PROJECTS
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manan-Goel&theme=react-dark&bg_color=0d1117&hide_border=true&color=00E6FF" width="100%" alt="Contribution Graph" />
+</div>
 
-### 🪞 Darpan — Global Intelligence Engine
+<br/>
 
-> Turns fragmented geopolitical & economic data into a **queryable knowledge graph**
-
-* Hybrid RAG → (Neo4j + FAISS)
-* Multi-hop reasoning + signal detection
-* LLM extraction (Llama / Mistral via Ollama)
-
----
-
-### 🧠 Green Data Center RL System
-
-> Autonomous environment optimizing energy, thermal comfort & carbon footprint
-
-* Custom RL environment (Gymnasium)
-* Multi-objective reward system
-* Deployed on Hugging Face Spaces
-
----
-
-### 🧬 Shravana — AI Healthcare Platform
-
-> Multi-task learning + real-time posture correction + risk prediction
-
-* Computer Vision (MediaPipe)
-* MTL deep learning models
-* Full-stack system with alerts + monitoring
-
----
-
-### 🌱 EcoFinds — AI Sustainability Engine
-
-> Finds eco-friendly alternatives using NLP + CV
-
----
-
-## ⚙️ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,fastapi,flask,docker,aws" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,firebase,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-OpenAI-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Graph-Neo4j-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector-FAISS-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-System-red?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GITHUB METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manan-Goel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manan-Goel&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
-</p>
-
----
-
-## 🐍 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🔬 CURRENT FOCUS
-
-* Agentic AI systems & planning
-* Graph-based reasoning
-* Scalable AI + MLOps pipelines
-
----
-
-## 🧠 ENGINEERING PHILOSOPHY
-
-> "AI is not just about models — it's about building systems that can reason, adapt, and scale."
-
----
-
-## 📫 CONNECT
-
-* GitHub: https://github.com/Manan-Goel
-* Hugging Face: https://huggingface.co/J1n-x
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:000000&height=120&section=footer"/>
-</p>
+<!-- CURRENT FOCUS & CONNECT -->
+<hr />
+<div align="center">
+  <h3>🔭 Current Exploration: Rust for High-Performance AI 🦀 || Scaling LLM Agents</h3>
+  
+  <p>I am actively seeking SDE and AI Engineering Internship/Roles (Class of 2026).</p>
+  
+  <p>
+    <a href="[YOUR_RESUME_LINK_HERE]"><b>[ Download My Resume ]</b></a>
+  </p>
+</div>
+<hr />
