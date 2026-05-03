@@ -1,104 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MANAN%20GOEL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:1f1c2c&height=250&section=header&text=MANAN%20GOEL&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Systems+that+Actually+Think;Graph+RAG+%7C+LLMs+%7C+Knowledge+Graphs;From+Raw+Data+→+Structured+Intelligence"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+LLMs+%7C+Graph+RAG;Building+Systems+that+Think+and+Reason;From+Raw+Data+→+Intelligence+→+Decisions;Not+just+models+—+I+build+systems"/>
 </p>
 
 ---
 
-## 🧠 Who Am I
-
-I don’t just build apps — I build **systems that reason**.
-
-* 🧩 Turning fragmented data into structured intelligence
-* ⚙️ Designing end-to-end AI pipelines
-* 🔍 Exploring how reasoning emerges from systems
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manan-Goel&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-## 🚀 What I’m Building
+## 🧠 SYSTEMS I BUILD
 
-<table>
-<tr>
-<td width="50%">
-
-### 🪞 Darpan
-
-AI-powered **global intelligence engine**
-
-* Graph RAG (Neo4j + FAISS)
-* Multi-hop reasoning
-* Signal detection
-
-</td>
-
-<td width="50%">
-
-### 📊 Multimodal QnA
-
-Ask questions over charts
-
-* Vision + Language
-* Context reasoning
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💰 Finance AI
-
-Domain-specific QnA system
-
-* Retrieval grounded
-* Low hallucination
-
-</td>
-
-<td width="50%">
-
-### 🎧 Mood AI
-
-Context-aware recommendations
-
-* Intent → suggestions
-* Real-world use case
-
-</td>
-</tr>
-</table>
+```diff
++ LLM-powered Intelligence Systems
++ Knowledge Graph + Graph RAG Architectures
++ End-to-End AI Pipelines (Data → Model → API → UI)
++ Multimodal + Reinforcement Learning Systems
+```
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 FEATURED PROJECTS
+
+### 🪞 Darpan — Global Intelligence Engine
+
+> Turns fragmented geopolitical & economic data into a **queryable knowledge graph**
+
+* Hybrid RAG → (Neo4j + FAISS)
+* Multi-hop reasoning + signal detection
+* LLM extraction (Llama / Mistral via Ollama)
+
+---
+
+### 🧠 Green Data Center RL System
+
+> Autonomous environment optimizing energy, thermal comfort & carbon footprint
+
+* Custom RL environment (Gymnasium)
+* Multi-objective reward system
+* Deployed on Hugging Face Spaces
+
+---
+
+### 🧬 Shravana — AI Healthcare Platform
+
+> Multi-task learning + real-time posture correction + risk prediction
+
+* Computer Vision (MediaPipe)
+* MTL deep learning models
+* Full-stack system with alerts + monitoring
+
+---
+
+### 🌱 EcoFinds — AI Sustainability Engine
+
+> Finds eco-friendly alternatives using NLP + CV
+
+---
+
+## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,docker,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,fastapi,flask,docker,aws" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,firebase,git,github,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-OpenAI-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Graph-Neo4j-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector-FAISS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-System-red?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧩 Core Focus
-
-```diff
-+ LLM Systems & Graph RAG
-+ Knowledge Graphs & Reasoning
-+ Backend Systems & APIs
-+ Data → Intelligence Pipelines
-```
-
----
-
-## 📈 GitHub Activity
+## 📊 GITHUB METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manan-Goel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
@@ -107,7 +91,7 @@ Context-aware recommendations
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -115,17 +99,27 @@ Context-aware recommendations
 
 ---
 
-## 🔭 Currently Exploring
+## 🔬 CURRENT FOCUS
 
-* Agentic AI systems
+* Agentic AI systems & planning
 * Graph-based reasoning
-* Scalable intelligence pipelines
+* Scalable AI + MLOps pipelines
 
 ---
 
-## 🤝 Let’s Build Something Real
+## 🧠 ENGINEERING PHILOSOPHY
+
+> "AI is not just about models — it's about building systems that can reason, adapt, and scale."
+
+---
+
+## 📫 CONNECT
+
+* GitHub: https://github.com/Manan-Goel
+* Hugging Face: https://huggingface.co/J1n-x
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:000000&height=120&section=footer"/>
 </p>
-
