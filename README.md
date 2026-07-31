@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="banner.png" alt="Manan Goel Banner" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&color=00E6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Systems+Builder;Graph+RAG+%7C+RL+%7C+Agentic+AI;From+Data+→+Knowledge+→+Intelligence;Building+Systems+that+Think" />
-
-</div>
-
 ---
 
 <p align="center">
